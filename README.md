@@ -1,1 +1,8 @@
-# ccchuangkouhuanjingxiaanzhuangMinGW-w64zhinan
+
+
+## 下载链接
+[cc窗口环境下安装MinGW-w64指南](https://pan.quark.cn/s/17886c54c053)
+
+## 说明
+
+该仓库仅用于学习交流，请勿用于商业用途。
